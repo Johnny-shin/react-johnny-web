@@ -1,13 +1,11 @@
 import React from "react";
 import "./App.css";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
 import About from "./Components/About";
-import Resume from "./Components/Resume";
-import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
+import Header from "./Components/Header";
 import Portfolio from "./Components/Portfolio";
+import Resume from "./Components/Resume";
 import data from "./resumeData.json";
-import SignUp from "./Components/SignUp";
 
 export default function App() {
   return (
@@ -16,8 +14,6 @@ export default function App() {
       <About data={data.main} />
       <Resume data={data.resume} />
       <Portfolio data={data.portfolio} />
-      {/* <Contact data={data.main} /> */}
-      {/* <SignUp /> */}
       <Footer data={data.main} />
     </div>
   );
