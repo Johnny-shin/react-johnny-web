@@ -30,7 +30,7 @@
       },
       {
         "name": "Something",
-        "url": "https://github.com/Johnny-shin",
+        "url": "mailto:hyunjongshin.dev@gmail.com?Subject=Hello%20Hyunjong",
         "className": "fa fa-envelope"
       }
     ]
@@ -97,33 +97,27 @@
     "projects": [
       {
         "title": "Brew4Coffee",
-        "category": "National Initiative for School Heads' and Teachers' Holistic Advancement",
+        "category": "This is eCommerce web applicaiton using MERN stack",
         "image": "brew4you.png",
         "url": "https://brew4you.herokuapp.com/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Nurse System",
+        "category": "This is simple web application using MERN stack and tensolflow to manage patients",
+        "image": "nurse-system.png",
+        "url": "https://github.com/Johnny-shin/nurse-system"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "WEB RTC PoC",
+        "category": "This is only purpose of demonstration for customer",
+        "image": "web-rtc-poc.png",
+        "url": "https://github.com/Johnny-shin/demo_webRTC"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Firefly",
+        "category": "Hackathon Project (Excellence Award)",
+        "image": "firefly.jpeg",
+        "url": "https://github.com/Johnny-shin/FireFly"
       }
     ]
   },

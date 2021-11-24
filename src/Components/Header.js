@@ -47,11 +47,11 @@ export default function Header({ data }) {
                 Works
               </a>
             </li>
-            <li>
+            {/* <li>
               <a className="smoothscroll" href="#contact">
                 Contact
               </a>
-            </li>
+            </li> */}
           </ul>
         </nav>
 

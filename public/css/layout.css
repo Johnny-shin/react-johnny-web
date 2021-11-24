@@ -517,6 +517,10 @@ ul#nav li.current a {
 .portfolio-item .item-wrap img {
   vertical-align: bottom;
   min-height: 176px;
+  max-height: 180px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;
