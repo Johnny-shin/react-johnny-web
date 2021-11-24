@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Johnny",
+    "occupation": "Full-Stack Developer",
+    "description": "software developer with 2 years of experience in fast-paced, deadline-driven environment. Highly experienced in the software development lifecycle. Supportive and enthusiastic team player dedicated to efficiently resolving project issues. Ability and willingness to innovate and learn new technologies, quick learner passionate about development",
+    "bio": "Hi! I'm Johnny. I'm currently studying Software Engineering Technology in Centennial College and also currently working in WIMTACH. I love to learn new technologies and create something new. Nowadays, I'm into solving algorithm questoins",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "hyunjongshin.dev@gmail.com",
+    "address": {
+      "city": "Toronto",
+      "state": "Ontario"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/johnny-shin",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shinhyunjong8017",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Johnny-shin",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Something",
+        "url": "https://github.com/Johnny-shin",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Centennial College",
+        "degree": "Software Engineering Technology",
+        "graduated": "Expected Dec 2021",
+        "description": "I've learned object-oriented software design methodologies, user-oriented interface design, software testing and QA, C#, Java, Java EE, Oracle, MS-SQL server, UNIX/Linux, Python, Microsoft's ASP.NET Core, HTML5/JavaScript/Angular, mobile application development, emerging web frameworks, cloud computing, data mining and more."
+      }
+    ],
+    "work": [
+      {
+        "company": "Centennial College - Xello",
+        "title": "Front-End Developer",
+        "years": "May 2021 - Present",
+        "description": "Refactoring AngularJS to Angular for better performance with TypeScript in Agile environment. \nCreating and maintaining 100% coverage unit testing each service and component with Jest in Test-Driven Development \nProviding proof of concept to replace deprecated third party libraries. \nexperiencing with all the phases of SDLC and agile development methodologies including SCRUM, involved in daily SCRUM meetings to keep track of the ongoing project status and issues using JIRA",
+        "technologies": ["TypeScript", "Angular", "Jest", "scss"]
+      },
+      {
+        "company": "Centennial College - InterDev",
+        "title": "Lead Developer",
+        "years": "Sep 2020 - May 2021",
+        "description": "Led student researchers and demonstrated progress bi-weekly to clients \nProfessional experience in mobile app development using React Native and Redux framework from scratch \nImplemented video and voice call for web(Angular) to mobile and mobile to mobile using WebRTC(peer-to-peer communication) \nDeveloped push notification for IOS and Android utilizing OneSignal which based on firebase in ASP.NET \nManaged quality of React Native as a code owner using Jira,Trello board (Agile tools) and Git (Version Control) ",
+        "technologies": ["JavaScript", "React Native", "Redux", "ASP.NET", "SQL", "WebRTC"]
+      },
+      {
+        "company": "Centennial College - Alpha Labs",
+        "title": "QA Engineer",
+        "years": "Jul 2020 - Sep 2021",
+        "description": "Wrote and maintained Selenium Web Driver(TestNG) automated regression test cases for Angular \nConducted regression testing and analyzed results and submitted observations to development team",
+        "technologies": ["Java", "Selenium", "MSSQL"]
+      },
+      {
+        "company": "Alpha Healthcare",
+        "title": "Full-Stack Developer",
+        "years": "Dec 2019 - May 2020",
+        "description": "Refactored ASP.NET code to feature enhancement & performance improvement (20 – 30% faster) \nCreated new feature using google map \nParticipated in restructuring and migrating database for CRM solution (DB Migration /DB Design)",
+        "technologies": ["ASP.NET", "JavaScript", "Selenium", "SQL"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "85%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Brew4Coffee",
+        "category": "National Initiative for School Heads' and Teachers' Holistic Advancement",
+        "image": "brew4you.png",
+        "url": "https://brew4you.herokuapp.com/"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
