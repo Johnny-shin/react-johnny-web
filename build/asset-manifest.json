@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-johnny-web/static/css/main.31d6cfe0.css",
+    "main.js": "/react-johnny-web/static/js/main.35ba23da.js",
+    "index.html": "/react-johnny-web/index.html",
+    "main.35ba23da.js.map": "/react-johnny-web/static/js/main.35ba23da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.35ba23da.js"
+  ]
+}
