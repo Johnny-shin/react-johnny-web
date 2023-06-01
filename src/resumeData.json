@@ -76,6 +76,10 @@
     ],
     "skills": [
       {
+        "name": "Spring Framework/Boot",
+        "level": "90%"
+      },
+      {
         "name": "React",
         "level": "85%"
       },
@@ -89,7 +93,7 @@
       },
       {
         "name": "SQL",
-        "level": "75%"
+        "level": "80%"
       }
     ]
   },
