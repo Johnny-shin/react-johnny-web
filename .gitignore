@@ -53,6 +53,8 @@ typings/
 # Optional eslint cache
 .eslintcache
 
+./build
+
 # Optional REPL history
 .node_repl_history
 
