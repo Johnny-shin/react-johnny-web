@@ -48,7 +48,18 @@
         "title": "Full Stack Developer",
         "years": "May 2021 - Present",
         "description": "Develop, test, and maintain applications while effectively communicating with external stakeholders. \nUpdated and streamlined legacy code by upgrading to Spring Framework 5.3 and its dependencies. \nDeveloped RESTful APIs in compliance with industry best practices, leveraging Junit(with Mockito) and Robot frameworks to ensure comprehensive test coverage.\nProvided technical demos to coworkers as part of regular sync meetings.\nAssisted in troubleshooting technical issues for interns and new junior developers.\nCompleted all security training requirements to ensure compliance with company guidelines.",
-        "technologies": ["Java", "Spring Framework", "Junit", "JavaScript", "UI5", "HANA", "XSA", "Docker", "Jenkins", "Selenium"]
+        "technologies": [
+          "Java",
+          "Spring Framework",
+          "Junit",
+          "JavaScript",
+          "UI5",
+          "HANA",
+          "XSA",
+          "Docker",
+          "Jenkins",
+          "Selenium"
+        ]
       },
       {
         "company": "WIMTACH X Xello",
@@ -62,14 +73,28 @@
         "title": "Full Stack Developer",
         "years": "Sep 2020 - May 2021",
         "description": "Led student researchers and demonstrated progress bi-weekly to clients \nProfessional experience in mobile app development using React Native and Redux framework from scratch \nImplemented video and voice call for web(Angular) to mobile and mobile to mobile using WebRTC(peer-to-peer communication) \nDeveloped push notification for IOS and Android utilizing OneSignal which based on firebase in ASP.NET \nManaged quality of React Native as a code owner using Jira,Trello board (Agile tools) and Git (Version Control) ",
-        "technologies": ["JavaScript", "React Native", "Redux", "ASP.NET", "SQL", "WebRTC"]
+        "technologies": [
+          "JavaScript",
+          "React Native",
+          "Redux",
+          "ASP.NET",
+          "SQL",
+          "WebRTC"
+        ]
       },
       {
         "company": "Alpha Healthcare",
         "title": "Software Developer",
         "years": "Dec 2019 - May 2020",
         "description": "Refactored ASP.NET code to feature enhancement & performance improvement (20 – 30% faster) \nCreated new feature using google map \nParticipated in restructuring and migrating database for CRM solution (DB Migration /DB Design)",
-        "technologies": ["C#", "Java", "ASP.NET", "JavaScript", "Selenium", "SQL"]
+        "technologies": [
+          "C#",
+          "Java",
+          "ASP.NET",
+          "JavaScript",
+          "Selenium",
+          "SQL"
+        ]
       }
     ],
     "skills": [
@@ -101,7 +126,7 @@
         "title": "Brew4Coffee",
         "category": "This is eCommerce web applicaiton using MERN stack",
         "image": "brew4you.png",
-        "url": "https://brew4you.herokuapp.com/"
+        "url": "https://github.com/Johnny-shin/coffee-shop"
       },
       {
         "title": "Nurse System",
