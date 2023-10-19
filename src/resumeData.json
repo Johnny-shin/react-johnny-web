@@ -129,10 +129,10 @@
         "url": "https://github.com/Johnny-shin/coffee-shop"
       },
       {
-        "title": "Nurse System",
-        "category": "This is simple web application using MERN stack and tensolflow to manage patients",
-        "image": "nurse-system.png",
-        "url": "https://github.com/Johnny-shin/nurse-system"
+        "title": "Petnerup Hackathon",
+        "category": "This is a prototype mobile application for a hackathon contest that won 1st prize",
+        "image": "PETNERUP.png",
+        "url": "https://www.figma.com/file/eTorwfz7KthevSMGOY1i9v/Petnerup-colors-(Copy)?type=design&node-id=131-6&mode=design&t=OX8ghsuzSWhtwtDD-0"
       },
       {
         "title": "WEB RTC PoC",

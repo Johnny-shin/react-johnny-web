@@ -3,13 +3,20 @@ import React from "react";
 export default function Portfolio({ data }) {
   const projects = data.projects.map((projects) => {
     const projectImage = "images/portfolio/" + projects.image;
-    const onClick = (url) => {
-      window.location.href=url;
-    }
+    const onClick = (e, url) => {
+      e.preventDefault();
+      window.location.href = url;
+      return true;
+    };
     return (
       <div key={projects.title} className="columns portfolio-item">
         <div className="item-wrap">
-          <a onClick={() => onClick(projects.url)}  title={projects.title} target={"_blank"} >
+          <a
+            href={projects.url}
+            onClick={(e) => onClick(e, projects.url)}
+            title={projects.title}
+            target="_blank"
+          >
             <img alt={projects.title} src={projectImage} />
             <div className="overlay">
               <div className="portfolio-item-meta">
