@@ -37,7 +37,7 @@ export default function About({ data }) {
             </div>
             <div className="columns download">
               <p>
-                <a href={'https://drive.google.com/file/d/1QsWWkesc0AzJkU8StoRbqIFwHW3n6JUd/view?usp=sharing'} className="button">
+                <a href={'https://drive.google.com/file/d/1Wh7M5c4oaHYFBVTROMF0WJvWdwFno_1n/view?usp=sharing'} className="button">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>

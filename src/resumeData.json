@@ -72,7 +72,7 @@
         "company": "WIMTACH X InterDev",
         "title": "Full Stack Developer",
         "years": "Sep 2020 - May 2021",
-        "description": "Led student researchers and demonstrated progress bi-weekly to clients \nProfessional experience in mobile app development using React Native and Redux framework from scratch \nImplemented video and voice call for web(Angular) to mobile and mobile to mobile using WebRTC(peer-to-peer communication) \nDeveloped push notification for IOS and Android utilizing OneSignal which based on firebase in ASP.NET \nManaged quality of React Native as a code owner using Jira,Trello board (Agile tools) and Git (Version Control) ",
+        "description": "Led student researchers and demonstrated progress bi-weekly to clients \nProfessional experience in mobile app development using React Native and Redux framework from scratch \nImplemented video and voice call for web to mobile and mobile to mobile using WebRTC(peer-to-peer communication) \nDeveloped push notification for IOS and Android utilizing OneSignal which based on firebase in ASP.NET \nManaged quality of React Native as a code owner using Jira,Trello board (Agile tools) and Git (Version Control) ",
         "technologies": [
           "JavaScript",
           "React Native",
