@@ -38,7 +38,7 @@
       {
         "school": "Centennial College",
         "degree": "Software Engineering Technology",
-        "graduated": "Expected Dec 2021",
+        "graduated": "Dec 2021",
         "description": "I've learned object-oriented software design methodologies, user-oriented interface design, software testing and QA, C#, Java, Java EE, Oracle, MS-SQL server, UNIX/Linux, Python, Microsoft's ASP.NET Core, HTML5/JavaScript/Angular, mobile application development, emerging web frameworks, cloud computing, data mining and more."
       }
     ],
@@ -46,7 +46,7 @@
       {
         "company": "SAP",
         "title": "Full Stack Developer",
-        "years": "May 2021 - Present",
+        "years": "May 2022 - May 2023",
         "description": "Develop, test, and maintain applications while effectively communicating with external stakeholders. \nUpdated and streamlined legacy code by upgrading to Spring Framework 5.3 and its dependencies. \nDeveloped RESTful APIs in compliance with industry best practices, leveraging Junit(with Mockito) and Robot frameworks to ensure comprehensive test coverage.\nProvided technical demos to coworkers as part of regular sync meetings.\nAssisted in troubleshooting technical issues for interns and new junior developers.\nCompleted all security training requirements to ensure compliance with company guidelines.",
         "technologies": [
           "Java",
